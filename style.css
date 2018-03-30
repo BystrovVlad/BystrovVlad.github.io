@@ -1,14 +1,7 @@
-<<<<<<< HEAD
-h2 { font-size: 120%;
-     font-family: Verdana;
-     color: #336;}
-a  { font-size: 100%;
-=======
-h2 { 
-     font-size: 120%;
-     font-family: Verdana;
-     color: #336;}
+h2 {font-size: 120%;
+    font-family: Verdana;
+    color: #336;}
+
 a {font-size: 100%;
->>>>>>> aa8f2b27d374f672567ab47e33292ee2f6b5d0c5
-     font-family: Arial;
-     color: #8b008b;}
+   font-family: Arial;
+   color: #8b008b;}
