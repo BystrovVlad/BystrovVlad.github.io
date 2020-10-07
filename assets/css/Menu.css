@@ -1,0 +1,126 @@
+*{padding: 0;margin: 0;}
+a{
+	text-decoration: none;
+	color: black;
+}
+
+body{
+	background: url("../img/paper_box_texture.jpg") no-repeat;
+	background-size: cover;
+	width: 100%;
+}
+.navigation{
+	margin-top: 25px;
+	margin-left: 150px;
+	font-family: 'FreeSet', arial;
+}
+
+#MenuNav2{
+	color: red;
+}
+
+.order{
+	background: white;
+	width: 100%;
+}
+
+.order > p {
+	text-align: center;
+}
+
+.order-form {
+	margin-left: 330px;
+}
+
+.order-form > input {
+	align-items: center;
+	display: inline-block;
+	height: 42px;
+	width: 300px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	font-size: 16px;
+}
+
+.mixes > div{
+	width: 300px;
+	height: 550px;
+	border-radius: 10px;
+	margin-left: 150px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	font-family: 'FreeSet', arial;
+	display: inline-block;
+}
+.Musthave{
+	background: url("../img/табаки/Must have.png") no-repeat;
+	background-size: cover;
+}
+.duft{
+	background: url("../img/табаки/duft.png") no-repeat;
+	background-size: cover;
+}
+.satyr{
+	background: url("../img/табаки/satyr.png") no-repeat;
+	background-size: cover;
+}
+.dailyhookah{
+	background: url("../img/табаки/daily hookah.png") no-repeat;
+	background-size: cover;
+}
+.darkside{
+	background: url("../img/табаки/dark side.png") no-repeat;
+	background-size: cover;
+}
+.puer{
+	background: url("../img/табаки/puer.png") no-repeat;
+	background-size: cover;
+}
+.element{
+	background: url("../img/табаки/element.png") no-repeat;
+	background-size: cover;
+}
+.spectrum{
+	background: url("../img/табаки/spectrum.png") no-repeat;
+	background-size: cover;
+}
+.noname{
+	background: url("../img/табаки/no name.png") no-repeat;
+	background-size: cover;
+}
+.chabacco{
+	background: url("../img/табаки/chabacco.png") no-repeat;
+	background-size: cover;
+}
+.coleidoscope{
+	background: url("../img/табаки/kaleidoscope.png") no-repeat;
+	background-size: cover;
+}
+.smokeangels{
+	background: url("../img/табаки/smoke angels.png") no-repeat;
+	background-size: cover;
+}
+.zrtabacco{
+	background: url("../img/табаки/zrtabacco.png") no-repeat;
+	background-size: cover;
+}
+.trinity{
+	background: url("../img/табаки/trinity.png") no-repeat;
+	background-size: cover;
+}
+.burn{
+	background: url("../img/табаки/burn.png") no-repeat;
+	background-size: cover;
+}
+.taiger{
+	background: url("../img/табаки/tangiers.png") no-repeat;
+	background-size: cover;
+}
+.wto{
+	background: url("../img/табаки/wto.png") no-repeat;
+	background-size: cover;
+}
+.fumary{
+	background: url("../img/табаки/fumary.png") no-repeat;
+	background-size: cover;
+}
